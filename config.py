@@ -5,6 +5,6 @@
 
 """ANIME DL TELEGRAM BOT CREDENTIALS"""
 
-api_id = ""
-api_hash = ""
-bot_token = ""
+api_id = "21531216"
+api_hash = "f1ff78d3d0b3eaa825294af918318ac7"
+bot_token = "7182062183:AAF3UFIS-uVADSY_jxUMHmnykhrUhHmHWdI"
